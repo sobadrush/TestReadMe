@@ -18,7 +18,7 @@ ___
 
 # 測試流程
 1. 執行 **SpringBootCurrentpriceApplication** ， 啟動SpringBoot專案
-2. 測試幣別維護後端 CurrencyRepository : 至 CurrencyRepositoryTest.java 執行 junit測試
+2. 測試[幣別維護]後端 CurrencyRepository : 至 CurrencyRepositoryTest.java 執行 junit測試
 3. 測試[幣別API] : 至 CurrencyTypeMaintainTest.java 執行 junit測試
 4. 測試[CoinDeskApi] : 至 CoinDeskApiControllerTest.java 執行 junit測試
 5. 測試[新資料轉換API] : 至 CurrencyTypeControllerTest.java 執行 junit測試
