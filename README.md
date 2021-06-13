@@ -22,3 +22,5 @@ ___
 3. 測試[幣別API] : 至 CurrencyTypeMaintainTest.java 執行 junit測試
 4. 測試[CoinDeskApi] : 至 CoinDeskApiControllerTest.java 執行 junit測試
 5. 測試[新資料轉換API] : 至 CurrencyTypeControllerTest.java 執行 junit測試
+6. 若使用Sqlite: 使用任一Client軟體開啟**MySqliteDB.db**後確認資料
+7. 若使用H2 DB: ![A test image](https://ibb.co/wgW2zhd)
