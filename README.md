@@ -25,3 +25,12 @@ ___
 6. 若使用Sqlite: 使用任一Client軟體開啟**MySqliteDB.db**後確認資料
 7. 若使用H2 DB:  
 ![H2 in memory](../main/h2-memory.png)
+
+
+# Tag
+1. Tag-20210613-SQLITE
+2. Tag-20210613-H2
+| TAG | 說明 |
+| --- | --- |
+| Tag-20210613-SQLITE | 使用SQLITE DB |
+| Tag-20210613-H2 | 使用H2 DB |
